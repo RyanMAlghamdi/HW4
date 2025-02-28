@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CIS122-HW4": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
